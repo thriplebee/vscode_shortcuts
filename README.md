@@ -2,7 +2,7 @@
 
 ### General
 
-* Ctrl + Shift + P  or  F1  &emsp                  -  emsp       Show command pallete
+* Ctrl + Shift + P  or  F1  &nbsp                  -  emsp       Show command pallete
 * Ctrl + P  emsp                                  -  emsp       Quick open, Go to file
 * Ctrl + Shift + N  emsp                          -  emsp       New window / instance
 * Ctrl + Shift + W  emsp                          -  emsp       Close window / instance  
