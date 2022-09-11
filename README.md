@@ -2,7 +2,7 @@
 
 ### General
 
-#### Show command pallete 
+#### 1. Show command pallete 
     Ctrl + Shift + P  or  F1
 
 * Quick open, Go to file
