@@ -222,7 +222,6 @@
 
 ---
 
-
 ### Intergrated Terminal
 
 #### 1. Toggle intergrated terminal
@@ -245,5 +244,58 @@
 
 #### 7. Scroll to top / bottom
     Ctrl + Home / End
+
+---
+
+### Search and Replace
+
+#### 1. Find
+    Ctrl + F
+
+#### 2. Find and replace
+    Ctrl + H
+
+#### 3. Find next / Previous
+    F3 / Shift + F3
+
+#### 4. Select all occurences of find match
+    Alt + Enter
+
+#### 5. Add selection to next find match
+    Ctrl + D
+
+---
+
+### Multi Cursor and Selection
+
+#### 1. Insert cursor
+    Alt + Click
+
+#### 2. Insert cursor above / below
+    Ctrl + Alt + UpArrow / DownArrow
+
+#### 3. Undo last cursor operation
+    Ctrl + U
+
+#### 4. Insert cursor at the end of the each line selected
+    Shift + Alt + I
+
+#### 5. Select current line
+    Ctrl + L
+
+#### 6. Select all occurences of current word
+    Ctrl + F2
+
+#### 7. Expand / shrink selection
+    Ctrl + Shift + RightArrow / LeftArrow
+
+#### 8. Column (Box) selection
+    Shift + Alt + Mouse Drag
+    
+#### 9. Column (Box) selection
+    Shift + Alt + Arrows
+
+#### 10. Column (Box) selection page up / down
+    Shift + Alt + Arrows + PageUp / PageDown
 
 ---
