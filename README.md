@@ -73,7 +73,7 @@
     Ctrl + K Ctrl + [ / ]
 
 #### 17. Collapse / uncollapse all regions
-    Ctrl + K Ctrl + 0 / j
+    Ctrl + K Ctrl + 0 / J
 
 #### 18. Add line comment
     Ctrl + K Ctrl + C
