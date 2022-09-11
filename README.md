@@ -2,9 +2,20 @@
 
 ### General
 
-* Ctrl + Shift + P  or  F1  &nbsp                  -  emsp       Show command pallete
-* Ctrl + P  emsp                                  -  emsp       Quick open, Go to file
-* Ctrl + Shift + N  emsp                          -  emsp       New window / instance
-* Ctrl + Shift + W  emsp                          -  emsp       Close window / instance  
-* Ctrl + ,  emsp                                  -  emsp       User settings
-* Ctrl + K Ctrl + S  emsp                         -  emsp       Keyboard shortcuts
+* Show command pallete 
+    Ctrl + Shift + P  or  F1
+
+* Quick open, Go to file
+    Ctrl + P 
+
+* New window / instance
+    Ctrl + Shift + N    
+
+* Close window / instance
+    Ctrl + Shift + W
+
+* User settings 
+    Ctrl + ,
+    
+* Keyboard 
+    Ctrl + K Ctrl + S
