@@ -2,9 +2,9 @@
 
 ### General
 
-* Ctrl + Shift + P  or  F1                  -       \tShow command pallete
-* Ctrl + P                                  -       \tQuick open, Go to file
-* Ctrl + Shift + N                          -       \tNew window / instance
-* Ctrl + Shift + W                          -       \tClose window / instance  
-* Ctrl + ,                                  -       \tUser settings
-* Ctrl + K Ctrl + S                         -       \tKeyboard shortcuts
+* Ctrl + Shift + P  or  F1  emsp                  -  emsp       Show command pallete
+* Ctrl + P  emsp                                  -  emsp       Quick open, Go to file
+* Ctrl + Shift + N  emsp                          -  emsp       New window / instance
+* Ctrl + Shift + W  emsp                          -  emsp       Close window / instance  
+* Ctrl + ,  emsp                                  -  emsp       User settings
+* Ctrl + K Ctrl + S  emsp                         -  emsp       Keyboard shortcuts
