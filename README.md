@@ -2,7 +2,7 @@
 
 ### General
 
-* Show command pallete 
+** Show command pallete 
     Ctrl + Shift + P  or  F1
 
 * Quick open, Go to file
@@ -16,6 +16,6 @@
 
 * User settings 
     Ctrl + ,
-    
+
 * Keyboard 
     Ctrl + K Ctrl + S
