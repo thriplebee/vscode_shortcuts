@@ -3,7 +3,7 @@
 ### General
 
 #### Show command pallete 
-    * Ctrl + Shift + P  or  F1
+    Ctrl + Shift + P  or  F1
 
 * Quick open, Go to file
     Ctrl + P 
