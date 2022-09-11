@@ -5,17 +5,17 @@
 #### 1. Show command pallete 
     Ctrl + Shift + P  or  F1
 
-* Quick open, Go to file
+#### 2. Quick open, Go to file
     Ctrl + P 
 
-* New window / instance
+#### 3. New window / instance
     Ctrl + Shift + N    
 
-* Close window / instance
+#### 4. Close window / instance
     Ctrl + Shift + W
 
-* User settings 
+#### 5. User settings 
     Ctrl + ,
     
-* Keyboard 
+#### 6. Keyboard 
     Ctrl + K Ctrl + S
